@@ -1,0 +1,4 @@
+establish in-memory database connection
+created function to handle transfer of funds
+[('Alice', 1000.0), ('Bob', 500.0)]
+close database connection
